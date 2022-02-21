@@ -1,13 +1,13 @@
 # Fundamental Data Types
 
-#integers and float 
+#integers and float
 print(type(2 + 4))
 print(type(2 - 4))
 print(type(2 * 4))
 print(type(2 / 4)) # float data type is a number with a decimal
-print(type(0.000001)) # another float
+print(type(0.000001)) # another float. The float number is stored in two places in memory. One place for the number and onther places in memory for the decimal
 
-# A float take much more space in memeory than an integer
+# A float take much more space in memory than an integer
 
 print(9.9+1.1)
 print(2 ** 2) # 2 to the power of 2
