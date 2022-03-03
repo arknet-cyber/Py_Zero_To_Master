@@ -20,10 +20,10 @@ print(basket)
 
 # removing
 basket.pop() # pop removes an object from the end of the list
-basket.pop(1)
+basket.pop(1) # or also remove a value from the index
 print(basket)
 
-basket.remove(4)
+basket.remove(4) # with remove method we remove a specified value from the list
 print(basket)
 
 basket.clear() # removes everything from the list

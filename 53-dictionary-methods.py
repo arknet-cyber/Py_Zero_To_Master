@@ -5,7 +5,7 @@ user = {
   'greet': 'hello'
 }
 
-print(user.get('age', 55)) # "get" is a method which is trying to find out if the key 'age' exists in the dictionary. But, continuing between the brackets when we ask if 'age' exists, if doesnt exists, then we ask the number 55 to be used
+print(user.get('age', 55)) # "get" is a method which is trying to find out if the key 'age' exists in the dictionary. But, continuing between the brackets when we ask if 'age' exists, if doesn't exists, then we ask the number 55 to be used
 
 
 user2 = dict(name='John') # using dict which is an builtin function

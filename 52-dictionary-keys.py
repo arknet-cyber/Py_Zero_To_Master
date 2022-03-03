@@ -9,7 +9,7 @@ dictionary = { # dictionary is an unordered key value pair
 print(dictionary[123])
 
 # Note!!! Dictionary keys needs to have a special property
-# A key needs to be imutable, va lue which can't be changed
+# A key needs to be immutable, va lue which can't be changed
 
 # A key ina dictionary needs to be unique
 print()

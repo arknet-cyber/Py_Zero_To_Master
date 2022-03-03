@@ -15,7 +15,7 @@ print(sorted(basket))
 
 print()
 print('New Basket sort')
-new_basket = basket[:] # [:] thjis copy the list or we can use .copy() method
+new_basket = basket[:] # [:] this copy the list or we can use .copy() method
 new_basket.sort()
 print(new_basket)
 

@@ -6,9 +6,10 @@ dictionary = { # dictionary is an unordered key value pair
   'x': 3
 }
 
+# print(dictionary.sort())
 print(dictionary['b'])
 
-dictionary = { # There are aslo different type of dictionaries 
+dictionary = { # There are also different type of dictionaries 
   'a': [1,2,3],
   'b': 'hello',
   'x': True

@@ -1,7 +1,7 @@
 # Sets are unordered collection of unique objects
 
 my_set = {1,2,3,4,5,5} # this look like a dictionary but is a Sets
-print('If we print this sets my_set = {1,2,3,4,5,5} will give use only yhe unique objects')
+print('If we print this sets my_set = {1,2,3,4,5,5} will give use only the unique objects')
 print(my_set)
 my_set.add(100)
 my_set.add(2)
