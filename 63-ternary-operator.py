@@ -6,4 +6,6 @@
 is_friend = True
 can_message = "message allowed" if is_friend else "not allowed to message"
 
+# In the above statement if is friend is true then you can message
+
 print(can_message)
