@@ -14,5 +14,7 @@ player1 = PlayerCharacter('Cindy', 44)
 player2 = PlayerCharacter('Tom', 21)
 player2.attack = 50
 
-print(player1.shout())
-print(player2.shout())
+#print(player1.shout())
+#print(player2.shout())
+
+help(player1)
